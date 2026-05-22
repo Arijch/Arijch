@@ -6,11 +6,13 @@
 </head>
 <body>
     <h1 align="left">Hi 👋, I'm Arij</h1>
-<h3 align="center">A passionate business analyst | Business Analytics Student</h3>
+<h3 align="center">A passionate data analyst | Business Analytics graduate</h3>
       <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
-   <p>I am Arij CHEBBI, a passionate Business Analytics student, currently honing my skills in various aspects of business analysis.</p>
+   <p>I am Arij CHEBBI, a passionate data analyst, currently honing my skills in various aspects of business analysis.</p>
     <p>Skills:</p>
     <ul>
+         <li>Build Machine learning models </li>
+        <li>Predective machine learning models</li>
         <li>Analysis of company files with Power BI</li>
         <li>Proficient in SQL and NoSQL databases</li>
     </ul>
